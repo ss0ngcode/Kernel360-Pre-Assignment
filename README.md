@@ -13,6 +13,10 @@
     - ResponseEntity를 사용하여 HTTP Header 및 HTTP Body 설정
     - Object Mapper를 통한 직렬화 & 역직렬화 이해
     - Exception Handler를 통한 예외처리
+    - Validation의 이해 및 custon valid annotation 활용
+  - Memory DataBase
+    - Memory DataBase를 활용하여 CRUD 실습
+    - Java Bean 등록
 
 - 개발 도구
   - Spring, Spring Boot, Gradle

@@ -12,6 +12,7 @@
   - Spring Boot Web
     - ResponseEntity를 사용하여 HTTP Header 및 HTTP Body 설정
     - Object Mapper를 통한 직렬화 & 역직렬화 이해
+    - Exception Handler를 통한 예외처리
 
 - 개발 도구
   - Spring, Spring Boot, Gradle

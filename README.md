@@ -19,6 +19,9 @@
     - Java Bean 등록
   - MySQL
     - Docker 내부에서 MySQL 동작
+  - JPA
+    - JPA의 기본동작 및 기존 Memory DB를 JPA로 교체 실습
+    - JPQL, Native Query 간단 실습
 
 - 개발 도구
   - Spring, Spring Boot, Gradle, MySQL, Docker

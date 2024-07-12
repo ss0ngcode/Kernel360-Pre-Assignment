@@ -1,11 +1,11 @@
 spring:
   jpa:
-    show-sql: true        # SQL?? ??? ??? ??? ????
+    show-sql: true        # SQL 코드를 로그로 표시 여부
     properties:
-      format_sql: true    # format? ???
+      format_sql: true    # format을 확인
       dialect: org.hibernate.dialect.MySQL8Dialect
     hibernate:
-      ddl-auto: validate  # ?? ?? Entity? DB? ??? ??? ???? ??(?? ??) / create: ??? ??, update: ???? ????
+      ddl-auto: validate  # Entity와 DB의 매핑을 검증(가장 추천) / create: 없으면 생성, update: 있으면 변경
   datasource:
     url: jdbc:mysql://localhost:3306/book_store?useSSL=false&userUnicode=true&allowPublicKeyRetrieval=true
     driver-class-name: com.mysql.cj.jdbc.Driver

@@ -24,5 +24,5 @@
     - JPQL, Native Query 간단 실습
 
 - 개발 도구
-  - Spring, Spring Boot, Gradle, MySQL, Docker
+  - Java, Spring, Spring Boot, Gradle, MySQL, Docker
   - IntelliJ

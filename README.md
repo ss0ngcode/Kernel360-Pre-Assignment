@@ -17,7 +17,9 @@
   - Memory DataBase
     - Memory DataBase를 활용하여 CRUD 실습
     - Java Bean 등록
+  - MySQL
+    - Docker 내부에서 MySQL 동작
 
 - 개발 도구
-  - Spring, Spring Boot, Gradle
+  - Spring, Spring Boot, Gradle, MySQL, Docker
   - IntelliJ

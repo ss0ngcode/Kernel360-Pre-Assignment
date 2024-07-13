@@ -22,6 +22,10 @@
   - JPA
     - JPA의 기본동작 및 기존 Memory DB를 JPA로 교체 실습
     - JPQL, Native Query 간단 실습
+    - 간단한 게시판 만들기 실습
+      - Entity 및 DTO 생성
+      - JPA 연관관계 설정
+      - 페이징 처리
 
 - 개발 도구
   - Java, Spring, Spring Boot, Gradle, MySQL, Docker
